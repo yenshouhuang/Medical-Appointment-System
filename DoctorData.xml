@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DOCTORS SYSTEM "DoctorData.dtd">
+<DOCTORS>
+    <DOCTOR>
+        <name>John</name>
+        <age>40</age>
+        <id>1</id>
+        <skills>
+            <skill>DENTISTRY</skill>
+
+        </skills>
+    </DOCTOR>
+    <DOCTOR>
+        <name>Thomas</name>
+        <age>30</age>
+        <id>2</id>
+        <skills>
+            <skill>ORTHOPAEDICS</skill>
+        </skills>
+    </DOCTOR>
+    <DOCTOR>
+        <name>Erin</name>
+        <age>30</age>
+        <id>3</id>
+        <skills>
+            <skill>OTOLARYNGOLOGY</skill>
+            <skill>OPHTHALMOLOGY</skill>
+        </skills>
+    </DOCTOR>
+    <DOCTOR>
+        <name>Peter</name>
+        <age>25</age>
+        <id>4</id>
+        <skills>
+            <skill>ORTHOPAEDICS</skill>
+        </skills>
+    </DOCTOR>
+    <DOCTOR>
+        <name>Wendy</name>
+        <age>27</age>
+        <id>5</id>
+        <skills>
+            <skill>OPHTHALMOLOGY</skill>
+        </skills>
+    </DOCTOR>
+    <DOCTOR>
+        <name>Eric</name>
+        <age>50</age>
+        <id>6</id>
+        <skills>
+            <skill>DENTISTRY</skill>
+            <skill>OTOLARYNGOLOGY</skill>
+        </skills>
+    </DOCTOR>
+    <DOCTOR>
+        <name>Woody</name>
+        <age>50</age>
+        <id>7</id>
+        <skills>
+            <skill>OPHTHALMOLOGY</skill>
+            <skill>ORTHOPAEDICS</skill>
+            <skill>OTOLARYNGOLOGY</skill>
+        </skills>
+    </DOCTOR>
+    <DOCTOR>
+        <name>Michael</name>
+        <age>25</age>
+        <id>8</id>
+        <skills>
+            <skill>OPHTHALMOLOGY</skill>
+            <skill>ORTHOPAEDICS</skill>
+            <skill>OTOLARYNGOLOGY</skill>
+
+        </skills>
+    </DOCTOR>
+</DOCTORS>

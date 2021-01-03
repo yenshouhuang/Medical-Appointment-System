@@ -1,0 +1,15 @@
+<!ELEMENT DOCTORS (DOCTOR*) >
+
+        <!ELEMENT DOCTOR (name, age, id, skills) >
+
+<!--        <!ATTLIST DOCTOR id CDATA #REQUIRED>-->
+
+        <!ELEMENT name (#PCDATA)>
+
+        <!ELEMENT age (#PCDATA)>
+
+        <!ELEMENT id (#PCDATA)>
+
+        <!ELEMENT skills (skill*)>
+
+        <!ELEMENT skill (#PCDATA)>
