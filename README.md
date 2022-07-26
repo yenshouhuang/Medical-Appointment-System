@@ -1,6 +1,7 @@
 # Medical-Appointment-System
----
+
 ###Introduction
+
 The Medical Appointment System allows patients to register personal info, make appointment, and cancel appointment to specific clinics. 
 
 Also, Doctor panel will allow doctors to create their profile based on their expertises. 
